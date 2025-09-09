@@ -1,2 +1,2 @@
-# karin_homworks
+# karin_homeworks
 homework solutions
